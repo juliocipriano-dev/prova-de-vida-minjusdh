@@ -1,0 +1,11 @@
+{
+    "version": "1.1.0",
+    "notes": "See the assets to download this version and install.",
+    "pub_date": "2024-10-09T16:47:00.530Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVCsyYWVramIyTnRQWHlabmlsOXhLTTA0NXBEemxLOUY0b1RkQVI1dndDQXJha0VTVFRmNjdiY3FnWlBqN1FWTW9EOXEvUktpNFdGUGwzM1BSblF2NGxaeDFVcmdGVmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NDkyOTMxCWZpbGU6cHJvdmEtZGUtdmlkYV8xLjEuMF94NjRfZW4tVVMubXNpLnppcApDZ3N6RlF1VFJxUUN1azdJY3RFMVRBTEdtMnd0OVlnM2ppVzRUVDZNeE9UUlBrOUlzTkVaRXUwYWM2THJqZHc2U1hZZ1MvM0lEUHY0OEUwZi9JUmRCUT09Cg==",
+            "url": "https://github.com/juliocipriano-dev/prova-de-vida-minjusdh/releases/download/v1.1.0/prova-de-vida_1.1.0_x64_en-US.msi.zip"
+        }
+    }
+}
